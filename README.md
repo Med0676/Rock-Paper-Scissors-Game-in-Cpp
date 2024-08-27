@@ -44,31 +44,35 @@ How Many Round 1 to 10 ? 3
 
 Round [1] begin:
 
-Your Choice : [1]
-, [2]
-, [3]Scissors ? 1
+Your Choice : [1], [2], [3]Scissors ? 1
 
-Player1 choice: Stone Computer choice: Scissors Round Winner : [Player1]
+Player1 choice: Stone 
+Computer choice: Scissors
+Round Winner : [Player1]
 
 ____________ [2] ____________
 
-Your Choice : [1]
-, [2]
-, [3]Scissors ? 2
+Your Choice : [1], [2], [3]Scissors ? 2
 
-Player1 choice: Paper Computer choice: Paper Round Winner : [NO Winner]
+Player1 choice: Paper 
+Computer choice: Paper
+Round Winner : [NO Winner]
 
 ____________ [3] ____________
 
-Your Choice : [1]
-, [2]
-, [3]Scissors ? 3
+Your Choice : [1], [2], [3]Scissors ? 3
 
-Player1 choice: Scissors Computer choice: Stone Round Winner : [Computer]
+Player1 choice: Scissors
+Computer choice: Stone 
+Round Winner : [Computer]
 
 [Game Result ]______
 
-Game Round : 3 Player1 won times : 1 Computer won times : 1 Draw times : 1 Final Winner : NO Winner
+Game Round : 3 
+Player1 won times : 1
+Computer won times : 1 
+Draw times : 1 
+Final Winner : NO Winner
 
 
 ## Future Improvements
